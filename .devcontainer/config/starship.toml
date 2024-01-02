@@ -1,0 +1,11 @@
+
+format = '🐹 $all'
+
+[container]
+disabled = true
+
+[directory]
+read_only = ""
+
+[username]
+show_always = true
